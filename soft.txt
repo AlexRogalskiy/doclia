@@ -1,0 +1,104 @@
+tortoise svn
+opera
+sublime 2/3
+7z
+npp
+jdk
+paint.net
+peazip
+virtualbox
+wireshark
+netbeans
+acrobat
+chrome
+skype for desktop
+emeditor
+idea
+membrane
+soap ui
+tortoise hg
+node
+cygwin
+git
+putty
+atom
+ruby
+maven
+gradle
+bitwise SSH
+cisco anyconnect
+docker
+ems sql manager lite for ...
+essential nettooles
+gamut log viewer
+git
+chrome
+xampp
+windjvu
+docker
+scala
+sbt
+filezilla
+httrack
+heidisql
+iis express
+jdk
+keepass password safe
+visual studio
+mozilla
+node
+obs studio
+ocs invertory ng agent
+opera
+oracle vm virtualbox
+paint.net
+peazip
+photoscape
+inkscape
+sysinternals
+postresql
+process hacker
+python
+rise editor
+tora
+teamviewer
+superputty
+vagrant
+win djview
+winscp
+xampp
+xmind
+apache jmeter
+httpmaster
+winrar
+jboss
+tomcat
+brackets
+bluefish
+nginx
+android studio
+sourcetree
+torrent
+
+http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
+https://www.blender.org/download/
+https://www.emtec.com/download.html
+restlet + postman + browser plugins + restman + vpn
+
+chrome://extensions/
+dejavu
+node.js v8 inspector
+redux devtools
+sql format
+toggle javascript
+xdebug helper
+docs
+google docs offline
+page monitor
+sql viewer
+wappalyzer
+json viewer
+postman interceptor
+soap analyzer
+sqlizer
+wisdler
